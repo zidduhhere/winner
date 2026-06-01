@@ -125,7 +125,7 @@ export const puzzles: Puzzle[] = [
       en: "Idh Njangalude _ _ _ _",
       ml: "ഇത് ഞങ്ങളുടെ _ _ _ _"
     },
-    answer: "VEED",
+    answer: "AREA",
     inputType: 'otp',
     displayMask: "____",
     hint: {
