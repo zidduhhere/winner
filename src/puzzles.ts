@@ -122,7 +122,7 @@ export const puzzles: Puzzle[] = [
     id: 9,
     type: 'missing_letter',
     question: {
-      en: "Idh Njangalude _ _ _ _",
+      en: "Idh Nammalude _ _ _ _",
       ml: "ഇത് ഞങ്ങളുടെ _ _ _ _"
     },
     answer: "AREA",
