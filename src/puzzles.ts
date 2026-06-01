@@ -112,6 +112,25 @@ export const puzzles: Puzzle[] = [
       ml: "ഈ ചിത്രങ്ങളിൽ നിന്ന് സിനിമയുടെ പേര് കണ്ടെത്തുക."
     },
     answer: "SHERSHAAH",
+    hint: {
+      en: "nammde idayil ind",
+      ml: "നമ്മുടെ ഇടയിൽ ഉണ്ട്"
+    },
     imageSrcs: [ak47, india, king]
+  },
+  {
+    id: 9,
+    type: 'missing_letter',
+    question: {
+      en: "Idh Njangalude _ _ _ _",
+      ml: "ഇത് ഞങ്ങളുടെ _ _ _ _"
+    },
+    answer: "VEED",
+    inputType: 'otp',
+    displayMask: "____",
+    hint: {
+      en: "kochu",
+      ml: "കൊച്ചു"
+    }
   }
 ];
